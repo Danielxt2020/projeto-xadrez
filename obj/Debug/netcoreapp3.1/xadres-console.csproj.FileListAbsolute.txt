@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\xadres-console\bin\Debug\netcoreapp3.1\xadres-console.exe
+C:\Users\danie\source\repos\xadres-console\bin\Debug\netcoreapp3.1\xadres-console.deps.json
+C:\Users\danie\source\repos\xadres-console\bin\Debug\netcoreapp3.1\xadres-console.runtimeconfig.json
+C:\Users\danie\source\repos\xadres-console\bin\Debug\netcoreapp3.1\xadres-console.runtimeconfig.dev.json
+C:\Users\danie\source\repos\xadres-console\bin\Debug\netcoreapp3.1\xadres-console.dll
+C:\Users\danie\source\repos\xadres-console\bin\Debug\netcoreapp3.1\xadres-console.pdb
+C:\Users\danie\source\repos\xadres-console\obj\Debug\netcoreapp3.1\xadres-console.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\xadres-console\obj\Debug\netcoreapp3.1\xadres-console.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\xadres-console\obj\Debug\netcoreapp3.1\xadres-console.AssemblyInfo.cs
+C:\Users\danie\source\repos\xadres-console\obj\Debug\netcoreapp3.1\xadres-console.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\xadres-console\obj\Debug\netcoreapp3.1\xadres-console.dll
+C:\Users\danie\source\repos\xadres-console\obj\Debug\netcoreapp3.1\xadres-console.pdb
+C:\Users\danie\source\repos\xadres-console\obj\Debug\netcoreapp3.1\xadres-console.genruntimeconfig.cache
