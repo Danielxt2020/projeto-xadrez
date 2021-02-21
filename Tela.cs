@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using tabuleiro;
 
-namespace xadres_console
+namespace xadres
 {
     class Tela
     {
